@@ -9,3 +9,7 @@
 ``` javascript
 var myVar = "This is my code example";
 ```
+
+- [ ] first item
+- [ ] of my tasklist
+- [ ] is complete
